@@ -1,6 +1,6 @@
 # hello-world
 microsoft github lab 
 
-this step 3 edit test
+this step 1 edit test
 
-test 2
+test 1
